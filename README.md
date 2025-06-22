@@ -1,7 +1,7 @@
 # minijungle-website
 # 🌐 Strona internetowa restauracji MiniJungle
 
-To w pełni wdrożona strona internetowa, wykonana na zlecenie działającej restauracji **MiniJungle**, zlokalizowanej w Malborku. Projekt został zrealizowany zgodnie z wymaganiami klienta i obecnie funkcjonuje jako oficjalna witryna lokalu.
+To w pełni wdrożona strona internetowa, wykonana na zlecenie działającej restauracji **MiniJungle**, zlokalizowanej w Malborku. Projekt został zrealizowany zgodnie z wymaganiami i obecnie funkcjonuje jako oficjalna witryna lokalu.
 
 ## 🎯 Zakres prac
 - przygotowanie struktury i układu strony,
